@@ -31,7 +31,7 @@ export default () => {
         <div className="border-b-2 border-white border-solid py-2 mb-12">
           <h2 className="text-xl text-gray-900">Latest Data</h2>
           <p className="text-white">
-            A selection of my favourite Tech & Crypto Stocks!
+            A selection of my favourite Tech, Crypto & Mining Stocks!
           </p>
         </div>
         {/* <SearchBar onFormSubmit={onFormSubmit} /> */}
